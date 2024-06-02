@@ -176,7 +176,7 @@ a:hover {
 }
 @media (max-width: 950px) {
   .bg-image {
-    background-image: url(assets/img/mobile_main_1.png); /* 스마트폰용 이미지 경로 */
+    background-image: url(assets/img/mobile_main_1.jpeg); /* 스마트폰용 이미지 경로 */
   }
 }
 /*------/ List a /------*/
