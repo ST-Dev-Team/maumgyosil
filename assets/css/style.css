@@ -176,7 +176,7 @@ a:hover {
 }
 @media (max-width: 950px) {
   .bg-image {
-    background-image: url(assets/img/mobile_main_1.jpeg); /* 스마트폰용 이미지 경로 */
+    background-image: url(assets/img/mobile_main_1.jpg); /* 스마트폰용 이미지 경로 */
   }
 }
 /*------/ List a /------*/
@@ -331,7 +331,7 @@ a:hover {
 
 /*------/ Title /------*/
 .title-wrap {
-  padding-bottom: 4rem;
+  padding-bottom: 3rem;
 }
 
 .title-a {
@@ -2072,7 +2072,7 @@ a:hover {
   height: auto;
   background: #f7f7f7;
   padding-top: 120px;
-  padding-bottom: 120px;
+  padding-bottom: 80px;
   color:#1a1d20;
 }
 
